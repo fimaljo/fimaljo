@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-7f0ea.web.app/#/](https://my-portfolio-7f0ea.web.app/#/)
+- 👨‍💻 All of my projects are available at [https://fimaljo-portfolio.web.app/](https://fimaljo-portfolio.web.app/)
 
 - 💬 Ask me about **flutter , ui , ux**
 
